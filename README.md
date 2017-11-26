@@ -1,0 +1,2 @@
+# BumpBot
+My bot
